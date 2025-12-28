@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Anshul Dhull<br><br>I’m a cybersecurity engineer with a strong focus on application security, detection engineering, and incident response. I enjoy working at the intersection of secure coding, threat modeling, and automation, turning security problems into practical, scalable solutions.<br><br>My work spans SIEM & detection engineering (Elastic, QRadar, MITRE ATT&CK), secure backend development, vulnerability research, and hands-on penetration testing. I’ve built and tested secure systems end-to-end—from writing defensive code and unit tests that simulate real attacks, to creating detections and incident response playbooks based on real-world threats like Log4j and cryptomining campaigns.<br><br>I care deeply about:<br><br>🛡️ Building security into systems, not bolting it on later<br><br>🔍 Understanding how attacks actually work—and how to detect them early<br><br>⚙️ Automating security workflows with code and CI/CD<br><br>📐 Aligning security work with frameworks like OWASP, NIST, and MITRE ATT&CK<br><br>📫 Feel free to explore, fork, or reach out—always happy to talk security and development.
+👋 Hi, I’m Anshul Dhull<br><br>I’m a cybersecurity engineer with a strong focus on application security, detection engineering, and incident response. I enjoy working at the intersection of secure coding, threat modeling, and automation, turning security problems into practical, scalable solutions.<br><br>My work spans SIEM & detection engineering (Elastic, QRadar, MITRE ATT&CK), secure backend development, vulnerability research, and hands-on penetration testing. I’ve built and tested secure systems end-to-end—from writing defensive code and unit tests that simulate real attacks, to creating detections and incident response playbooks based on real-world threats like Log4j and cryptomining campaigns.<br><br>I care deeply about:<br><br>🛡️ Building security into systems, not bolting it on later<br><br>🔍 Understanding how attacks actually work, and how to detect them early<br><br>⚙️ Automating security workflows with code and CI/CD<br><br>📐 Aligning security work with frameworks like OWASP, NIST, and MITRE ATT&CK<br><br>📫 Feel free to explore, fork, or reach out—always happy to talk security and development.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=adanshul&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=adanshul&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adanshul&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adanshul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adanshul&limit=5&theme=dark&combine_all_yearly_contributions=true)
